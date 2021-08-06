@@ -3,7 +3,6 @@ asn1crypto==0.24.0
 autopep8==1.5.6
 Babel==2.9.1
 beautifulsoup4==4.6.0
-Brlapi==0.6.6
 certifi==2021.5.30
 chardet==4.0.0
 click==8.0.1
