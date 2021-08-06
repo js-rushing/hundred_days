@@ -9,7 +9,6 @@ click==8.0.1
 colorama==0.3.7
 configobj==5.0.6
 cryptography==2.1.4
-cupshelpers==1.0
 dataclasses==0.8
 defer==1.0.6
 distro-info===0.18ubuntu0.18.04.1
