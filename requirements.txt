@@ -7,7 +7,6 @@ certifi==2021.5.30
 chardet==4.0.0
 click==8.0.1
 colorama==0.3.7
-command-not-found==0.3
 configobj==5.0.6
 cryptography==2.1.4
 cupshelpers==1.0
